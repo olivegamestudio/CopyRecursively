@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyRecursively", "CopyRecursively\CopyRecursively.csproj", "{0854C1CE-3365-4E29-BE0B-13AE713C9CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0854C1CE-3365-4E29-BE0B-13AE713C9CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0854C1CE-3365-4E29-BE0B-13AE713C9CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0854C1CE-3365-4E29-BE0B-13AE713C9CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0854C1CE-3365-4E29-BE0B-13AE713C9CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1769FAD7-D1C5-4D69-A5D5-88524B53AE89}
+	EndGlobalSection
+EndGlobal
